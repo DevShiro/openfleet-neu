@@ -1,0 +1,4 @@
+rootProject.name = 'openfleet-neu'
+include 'openfleet-api'
+include 'openfleet-common'
+
